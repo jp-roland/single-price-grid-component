@@ -5,14 +5,11 @@ module.exports = {
     extend: {
       colors: {
         cyan: {
-          //DEFAULT: 'hsl(179, 62%, 43%)',
-          DEFAULT: '#00bcb1',
-          //light: 'hsl(179, 62%, 48%)',
-          light: '#00c7bd',
+          DEFAULT: 'hsl(179, 62%, 43%)',
+          light: '#4abebd',
         },
         yellow: {
-          //bright: 'hsl(71, 73%, 54%)',
-          bright: '#a5f02b',
+          bright: 'hsl(71, 73%, 54%)',
         },
         gray: {
           light: 'hsl(204, 43%, 93%)',
@@ -32,6 +29,9 @@ module.exports = {
       },
       maxWidth: {
         custom: '40rem',
+      },
+      padding: {
+        '18': '4.5rem',
       },
     },
   },
