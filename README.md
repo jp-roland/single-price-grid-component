@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/jp-roland/single-price-grid-component)
-- Live Site URL: [Add live site URL here](https://single-price-grid-component-seven-xi.vercel.app/)
+- Solution URL: https://github.com/jp-roland/single-price-grid-component
+- Live Site URL: https://single-price-grid-component-seven-xi.vercel.app/
 
 ## My process
 
